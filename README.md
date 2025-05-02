@@ -22,4 +22,4 @@ O código ainda contém alguns erros e melhorias estão sendo planejadas. Em ver
 ## Como Executar
 1. Clone este repositório:
    ```sh
-   git clone <>
+   git clone <https://github.com/italokaueL/Lista-de-Tarefas-To-Do-List-.git>
